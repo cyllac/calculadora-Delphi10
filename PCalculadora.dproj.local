@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/11 21:10:04.000.532,=C:\Users\Priscila\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 19:22:21.340,=C:\Users\Priscila\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 19:32:35.744,C:\PROJECTS\Delphi\Calculadora\Calculadora.dfm=C:\Users\Priscila\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/05/27 19:32:35.744,C:\PROJECTS\Delphi\Calculadora\Calculadora.pas=C:\Users\Priscila\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 19:33:06.785,C:\PROJECTS\Delphi\Calculadora\PCalculadora.dproj=C:\Users\Priscila\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/05/27 19:33:59.531,=C:\PROJECTS\Delphi\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 19:34:21.381,C:\PROJECTS\Delphi\Calculadora\Calculadora.Interfaces.pas=C:\PROJECTS\Delphi\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 19:37:37.544,=C:\PROJECTS\Delphi\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 19:38:03.659,C:\PROJECTS\Delphi\Calculadora\Calculadora.Operacao.pas=C:\PROJECTS\Delphi\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 19:41:56.468,=C:\PROJECTS\Delphi\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 19:43:27.055,C:\PROJECTS\Delphi\Calculadora\Principal.dfm=C:\PROJECTS\Delphi\Calculadora\Calculadora.dfm</Transaction>
+    <Transaction>2023/05/27 19:43:27.055,C:\PROJECTS\Delphi\Calculadora\Principal.pas=C:\PROJECTS\Delphi\Calculadora\Calculadora.pas</Transaction>
+    <Transaction>2023/05/27 19:43:42.056,C:\PROJECTS\Delphi\Calculadora\Calculadora.pas=C:\PROJECTS\Delphi\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 19:46:49.060,=C:\PROJECTS\Delphi\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 19:47:01.413,C:\PROJECTS\Delphi\Calculadora\Calculadora.Somar.pas=C:\PROJECTS\Delphi\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 20:03:08.558,=C:\PROJECTS\Delphi\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 20:03:21.666,C:\PROJECTS\Delphi\Calculadora\Calculadora.Subtrair.pas=C:\PROJECTS\Delphi\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 20:04:55.945,=C:\PROJECTS\Delphi\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 20:05:11.081,C:\PROJECTS\Delphi\Calculadora\Calculadora.Multiplicar.pas=C:\PROJECTS\Delphi\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 20:05:47.817,=C:\PROJECTS\Delphi\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 20:06:00.259,C:\PROJECTS\Delphi\Calculadora\Calculadora.Dividir.pas=C:\PROJECTS\Delphi\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 20:42:26.228,=C:\PROJECTS\Delphi\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 20:42:51.398,C:\PROJECTS\Delphi\Calculadora\Calculadora.Eventos.pas=C:\PROJECTS\Delphi\Calculadora\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
